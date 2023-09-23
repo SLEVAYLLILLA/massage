@@ -1,7 +1,7 @@
 
-# Massage Living Website
+# Massage Live Website
 
-Welcome to the Massage Living website project. This website is designed using Bootstrap, CSS, HTML, jQuery, and JavaScript.
+Welcome to the Massage Live website project. This website is designed using Bootstrap, CSS, HTML, jQuery, and JavaScript.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to the Massage Living website project. This website is designed using Bo
 
 ## Introduction
 
-The Massage Living website is a responsive and user-friendly platform for sharing information about massage services, therapists, and scheduling appointments. It utilizes Bootstrap for styling and includes custom CSS, HTML, jQuery, and JavaScript components.
+The Massage Live website is a responsive and user-friendly platform for sharing information about massage services, therapists, and scheduling appointments. It utilizes Bootstrap for styling and includes custom CSS, HTML, jQuery, and JavaScript components.
 
 ## Getting Started
 
