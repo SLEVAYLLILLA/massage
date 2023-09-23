@@ -52,4 +52,8 @@ $(document).ready(function () {
 
 });
 
-
+// $(document).ready(function){
+//     $('.menuIcon').click(function(){
+//         $('#carouselExampleSlidesOnly').toogle();
+//     });
+// };
