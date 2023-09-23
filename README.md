@@ -34,11 +34,12 @@ Before you begin, ensure you have the following software and tools installed:
 1. Clone the repository (if you have Git installed) or download the ZIP file.
 
 
+
 2. Open the project folder in your code editor.
 
 ## Usage
 
-To view the website and interact with its features, open the `index.html` file in a web browser. You can explore the different sections, schedule appointments, and experience the massage living website.
+To view the website and interact with its features, open the `index.html` file in a web browser. You can explore the different sections, schedule appointments, and experience the massage live website.
 
 ## Contributing
 
@@ -50,7 +51,7 @@ We welcome contributions to enhance this project. If you'd like to contribute, p
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you can use, modify, and distribute the code for personal or commercial purposes with proper attribution.
+This project is "All Rights Reserved," which means it cannot be modified or used without explicit permission from the project owner. For licensing inquiries, please contact [Somfainé Lévay Lilla/somlilla8@gmail.com].
 
 ## Acknowledgments
 
